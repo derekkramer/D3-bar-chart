@@ -1,6 +1,6 @@
-![D3.js]( 	https://s3-us-west-2.amazonaws.com/derek-assets/D3.png)
-
 # D3 Bar Chart Lecture - Part 1
+
+![D3.js](https://s3-us-west-2.amazonaws.com/derek-assets/D3.png)
 
 This repository contains several different versions of D3 bar charts, all corresponding to a D3 lecture given to Galvanize WDI, Platte on June 27, 2018. The full-length recorded lecture can be found on YouTube [here](https://youtu.be/mJq_D3UBQTs).  
   
